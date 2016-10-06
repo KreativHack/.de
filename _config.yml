@@ -13,17 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: KreativHack
-email: info@kreativhack.de
+title: KreativHack Kiel
+
 description: > # this means to ignore newlines until "baseurl:"
-  Der KreativHack ist ein Hackathon, bei dem talentierte Kreative,
-  Programmierende & Gestaltende aus dem Großraum Kiel an einem Ort
-  zusammen kommen.
+  Hackathons in Kiel für Entwickler und Designer. 24 bis 48 Stunden
+  konzentrierte Produktivität. Was zählt ist das Ergebnis.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.kreativhack.de" # the base hostname & protocol for your site
+
+timezone: Europe/Berlin
+
+event_label: Hackathons
 twitter_username: KreativHack
 github_username: KreativHack
 
 # Build settings
 markdown: kramdown
-theme: minima
+
+future: true
+
+permalink: /event/:title.html
