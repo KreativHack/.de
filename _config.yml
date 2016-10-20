@@ -27,6 +27,7 @@ timezone: Europe/Berlin
 event_label: Hackathons
 twitter_username: KreativHack
 github_username: KreativHack
+meetup_username: KreativHack-Kiel
 
 # Build settings
 markdown: kramdown
