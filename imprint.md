@@ -13,4 +13,8 @@ Der KreativHack wird organisiert von:
 > {{ organizer.address }}
 {% endfor %}
 
-Karte des Open Data Hackathons : © OpenStreetMap contributors
+## Bilder
+
+Panorama von Kiel: [Jan Petersen](https://www.flickr.com/photos/witz-und-verstand/8933096589)
+
+Karte des Open Data Hackathons: © OpenStreetMap contributors
