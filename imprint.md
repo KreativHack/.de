@@ -12,3 +12,5 @@ Der KreativHack wird organisiert von:
 
 > {{ organizer.address }}
 {% endfor %}
+
+Karte des Open Data Hackathons : © OpenStreetMap contributors
