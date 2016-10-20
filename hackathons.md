@@ -12,8 +12,6 @@ Ein Hackathon ist eine Veranstaltung, bei welcher talentierte Kreative, Programm
 
 Für 24 bis 48 Stunden bilden sich Teams, die gemeinsam innovative Projektideen entwickeln oder einfach nur ein wenig experimentieren wollen.
 
-Das Ganze findet ohne festes Thema, nervige Vorträge oder Workshops statt. Stattdessen steht ein kreativer Austausch im Vordergrund.
-
 Innovation statt Bullshit-Bingo! Es geht nur um das Ergebnis, nicht um eine Geschäftsidee. Ein Spiel? Ein Prototyp für eine App? Eine interaktive Motion-Graphic? Alles ist erlaubt — solange etwas erschaffen wird.
 
 Nimm Deine Freunde mit oder finde Dein Team vor Ort.
